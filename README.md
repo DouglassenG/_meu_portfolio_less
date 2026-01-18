@@ -15,7 +15,7 @@ Este projeto resolve o problema de manutenção de estilos em interfaces complex
 
 ## 🖼️ Demonstração Visual
 
-*(Se o projeto estiver online via Vercel ou GitHub Pages, insira o link aqui: [Acesse o Portfólio Online](URL))*
+
 
 ## 🛠️ Tecnologias Utilizadas
 
